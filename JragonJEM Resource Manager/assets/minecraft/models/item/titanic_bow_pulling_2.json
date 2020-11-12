@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "custom/weapons/titanic_bow/bow_pulling_2"
+    }
+}

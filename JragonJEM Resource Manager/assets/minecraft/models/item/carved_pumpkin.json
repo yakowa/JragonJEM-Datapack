@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "overrides": [
+      { "predicate": { "custom_model_data": 1 }, "model": "item/crown" },
+      { "predicate": { "custom_model_data": 2 }, "model": "item/infantry_enderium_helmet" },
+      { "predicate": { "custom_model_data": 3 }, "model": "item/captain_enderium_helmet" },
+      { "predicate": { "custom_model_data": 4 }, "model": "item/commander_enderium_helmet" }
+    ]
+}
